@@ -46,7 +46,6 @@ simple-journey/
 │   ├── views/            # Halaman utama aplikasi
 │   ├── assets/           # Gambar, ikon, dan aset statis lainnya
 │   ├── router/           # Konfigurasi Vue Router
-│   ├── store/            # State management (jika diperlukan)
 │   ├── App.vue           # Entry point utama aplikasi
 │   └── main.ts           # Konfigurasi utama Vue
 │── public/               # File statis (favicon, dll.)
@@ -65,13 +64,6 @@ simple-journey/
 - 🛠 **Tanggal Mulai:** Setelah menerima tantangan
 - ⏳ **Batas Waktu:** **Senin, 24 Maret 2025**
 
-## 📤 Deployment
-
-Proyek ini dapat di-deploy menggunakan **Vercel, Netlify, atau layanan hosting lainnya**.
-
-## 🤝 Kontribusi
-
-Jika Anda ingin memberikan saran atau perbaikan, silakan buat _pull request_ atau hubungi saya.
 
 ## 📧 Kontak
 
