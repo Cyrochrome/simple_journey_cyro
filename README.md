@@ -21,8 +21,6 @@ git clone https://github.com/username/simple-journey.git
 cd simple-journey
 ```
 
-````
-
 ### 🔧 2. Install Dependensi
 
 ```sh
@@ -64,8 +62,6 @@ simple-journey/
 - 🛠 **Tanggal Mulai:** Setelah menerima tantangan
 - ⏳ **Batas Waktu:** **Senin, 24 Maret 2025**
 
-
 ## 📧 Kontak
 
 Jika ada pertanyaan lebih lanjut, silakan hubungi **marshalinas82@gmail.com**
-````
