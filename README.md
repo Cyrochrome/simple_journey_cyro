@@ -1,39 +1,79 @@
-# .
+# 🚀 Simple Journey - Proyek Vue 3
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📌 Deskripsi
 
-## Recommended IDE Setup
+Proyek ini merupakan konversi dari situs web statis **Simple Journey** ke **Vue 3**, dengan tujuan menciptakan tampilan yang **responsif**, **pixel-perfect**, dan mudah dikelola.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🎯 Fitur Utama
 
-## Type Support for `.vue` Imports in TS
+- ✅ **Dibangun dengan Vue 3** untuk performa optimal dan kemudahan pengelolaan.
+- ✅ **Desain responsif** yang mendukung tampilan di perangkat mobile, tablet, dan desktop.
+- ✅ **Tampilan sesuai desain asli**, memastikan pengalaman pengguna yang konsisten.
+- ✅ **Menggunakan TailwindCSS** untuk styling yang efisien dan modern.
+- ✅ **Kode bersih dan terstruktur** untuk kemudahan pemeliharaan dan pengembangan lebih lanjut.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## 🛠️ Instalasi dan Menjalankan Proyek
 
-## Customize configuration
+### 📥 1. Clone Repository
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+```sh
+git clone https://github.com/username/simple-journey.git
+cd simple-journey
+```
 
-## Project Setup
+````
+
+### 🔧 2. Install Dependensi
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### ▶️ 3. Jalankan Proyek
 
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+Akses aplikasi di **http://localhost:5173/**
+
+## 📁 Struktur Proyek
 
 ```sh
-npm run build
+simple-journey/
+│── src/
+│   ├── components/       # Komponen UI yang dapat digunakan kembali
+│   ├── views/            # Halaman utama aplikasi
+│   ├── assets/           # Gambar, ikon, dan aset statis lainnya
+│   ├── router/           # Konfigurasi Vue Router
+│   ├── store/            # State management (jika diperlukan)
+│   ├── App.vue           # Entry point utama aplikasi
+│   └── main.ts           # Konfigurasi utama Vue
+│── public/               # File statis (favicon, dll.)
+│── package.json          # Dependensi proyek
+│── README.md             # Dokumentasi proyek
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+## 🎨 Bonus Fitur
 
-```sh
-npm run lint
-```
+- ✨ **Animasi interaktif** untuk meningkatkan UX.
+- 🚀 **Optimisasi aset** untuk performa lebih baik.
+- ♿ **Aksesibilitas** yang lebih baik dengan praktik terbaik.
+
+## 📅 Timeline
+
+- 🛠 **Tanggal Mulai:** Setelah menerima tantangan
+- ⏳ **Batas Waktu:** **Senin, 24 Maret 2025**
+
+## 📤 Deployment
+
+Proyek ini dapat di-deploy menggunakan **Vercel, Netlify, atau layanan hosting lainnya**.
+
+## 🤝 Kontribusi
+
+Jika Anda ingin memberikan saran atau perbaikan, silakan buat _pull request_ atau hubungi saya.
+
+## 📧 Kontak
+
+Jika ada pertanyaan lebih lanjut, silakan hubungi **marshalinas82@gmail.com**
+````
