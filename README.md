@@ -17,8 +17,8 @@ Proyek ini merupakan konversi dari situs web statis **Simple Journey** ke **Vue 
 ### 📥 1. Clone Repository
 
 ```sh
-git clone https://github.com/username/simple-journey.git
-cd simple-journey
+git clone https://github.com/Cyrochome/simple_journey_cyro.git
+cd simple_journey_cyro
 ```
 
 ### 🔧 2. Install Dependensi
